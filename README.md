@@ -1,4 +1,4 @@
-# domrock-pydev-test
+# simple-energy-pydev-test
 Python Developer challenge for Simple Energy company.
 
 
