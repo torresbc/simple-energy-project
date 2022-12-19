@@ -201,7 +201,7 @@ def main():
     df = read_pdf_files(df)
 
     print(f"LOG: EXPORTING FINAL DATAFRAME")
-    df.sort_values(['code', 'source']).to_excel('../output/simple-energy.xlsx')
+    df.sort_values(['code', 'source']).to_excel('../simple-energy.xlsx')
 
 
 if __name__ == '__main__':
